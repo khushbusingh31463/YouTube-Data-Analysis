@@ -27,3 +27,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 
+![Data Architecture](/AWS_Data_Architecture.png)
